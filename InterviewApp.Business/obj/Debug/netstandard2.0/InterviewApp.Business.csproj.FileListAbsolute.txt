@@ -1,0 +1,12 @@
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Business.deps.json
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Business.dll
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Business.pdb
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Data.dll
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Data.pdb
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.csprojAssemblyReference.cache
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.csproj.CoreCompileInputs.cache
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.AssemblyInfoInputs.cache
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.AssemblyInfo.cs
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.csproj.CopyComplete
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.dll
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.pdb

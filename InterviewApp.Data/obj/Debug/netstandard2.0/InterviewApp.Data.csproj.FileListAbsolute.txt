@@ -1,0 +1,9 @@
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Data\bin\Debug\netstandard2.0\InterviewApp.Data.deps.json
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Data\bin\Debug\netstandard2.0\InterviewApp.Data.dll
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Data\bin\Debug\netstandard2.0\InterviewApp.Data.pdb
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Data\obj\Debug\netstandard2.0\InterviewApp.Data.csprojAssemblyReference.cache
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Data\obj\Debug\netstandard2.0\InterviewApp.Data.csproj.CoreCompileInputs.cache
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Data\obj\Debug\netstandard2.0\InterviewApp.Data.AssemblyInfoInputs.cache
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Data\obj\Debug\netstandard2.0\InterviewApp.Data.AssemblyInfo.cs
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Data\obj\Debug\netstandard2.0\InterviewApp.Data.dll
+E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Data\obj\Debug\netstandard2.0\InterviewApp.Data.pdb
