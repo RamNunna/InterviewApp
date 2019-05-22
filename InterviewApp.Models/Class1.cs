@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace InterviewApp.Business
+namespace InterviewApp.Models
 {
     public class Class1
     {

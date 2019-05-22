@@ -77,7 +77,7 @@ namespace PhoneHelp.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User logged in.");
-                    return RedirectToPage("./Home/Index");
+                    return RedirectToAction("Index","OnlineTest");
                 }
                 if (result.RequiresTwoFactor)
                 {

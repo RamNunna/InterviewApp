@@ -10,3 +10,19 @@ E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\obj\Debug
 E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.csproj.CopyComplete
 E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.dll
 E:\RamNunna\RAM\Personal\MYProjects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.pdb
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Business.deps.json
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Business.dll
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Business.pdb
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Data.Contracts.dll
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Data.dll
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Models.dll
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Data.pdb
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Data.Contracts.pdb
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\bin\Debug\netstandard2.0\InterviewApp.Models.pdb
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.csprojAssemblyReference.cache
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.csproj.CoreCompileInputs.cache
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.AssemblyInfoInputs.cache
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.AssemblyInfo.cs
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.csproj.CopyComplete
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.dll
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Business\obj\Debug\netstandard2.0\InterviewApp.Business.pdb

@@ -1,0 +1,9 @@
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Data.Contracts\bin\Debug\netstandard2.0\InterviewApp.Data.Contracts.deps.json
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Data.Contracts\bin\Debug\netstandard2.0\InterviewApp.Data.Contracts.dll
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Data.Contracts\bin\Debug\netstandard2.0\InterviewApp.Data.Contracts.pdb
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Data.Contracts\obj\Debug\netstandard2.0\InterviewApp.Data.Contracts.csproj.CoreCompileInputs.cache
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Data.Contracts\obj\Debug\netstandard2.0\InterviewApp.Data.Contracts.AssemblyInfoInputs.cache
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Data.Contracts\obj\Debug\netstandard2.0\InterviewApp.Data.Contracts.AssemblyInfo.cs
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Data.Contracts\obj\Debug\netstandard2.0\InterviewApp.Data.Contracts.dll
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Data.Contracts\obj\Debug\netstandard2.0\InterviewApp.Data.Contracts.pdb
+E:\RamNunna\RAM\MY Projects\InterviewApp\InterviewApp.Data.Contracts\obj\Debug\netstandard2.0\InterviewApp.Data.Contracts.csprojAssemblyReference.cache
